@@ -1,3 +1,10 @@
+#############################
+# Learn Python Coding in 2019
+# By John Elder
+# Codemy.com
+#############################
+
+
 # Clear the terminal screen
 import os
 os.system('clear')
